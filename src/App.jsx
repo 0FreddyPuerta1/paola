@@ -18,7 +18,7 @@ const App = () => {
           mensaje = 'Los lunes amo el color de tus ojos';
           break;
         case 2:
-          mensaje = 'Los martes amo tus labios';
+          mensaje = 'Los martes amo tus labios. No podia dormir asi que me puse a investigar cosas acerca de como crear marcas y eso, ademas, te hice un asesor en CHATGPT. Te enseñaré a crear mejores prompts. Te quiero';
           break;
         case 3:
           mensaje = 'Los miércoles tu cabello';
